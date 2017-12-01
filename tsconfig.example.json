@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    //"noUnusedLocals": true,
+    "noUnusedParameters": false,
+    "alwaysStrict": true,
+    "noFallthroughCasesInSwitch": true,
+    "module": "commonjs",
+    "moduleResolution": "classic",
+    "noEmitOnError": true,
+    "removeComments": false,
+    "sourceMap": true,
+    "target": "es2015",
+    "lib": [
+      "es6"
+    ],
+    "diagnostics": true,
+    "pretty": true,
+    "forceConsistentCasingInFileNames": true,
+    "listEmittedFiles": true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}

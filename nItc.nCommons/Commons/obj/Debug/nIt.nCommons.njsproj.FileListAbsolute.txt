@@ -1,0 +1,3 @@
+D:\_myStudies\typescript\nItc.nCommons\Commons\obj\Debug\nIt.nCommons.njsproj.CoreCompileInputs.cache
+D:\_myStudies\typescript\nItc.nCommons\Commons\bin\Microsoft.NodejsTools.WebRole.dll
+D:\_myStudies\typescript\nItc.nCommons\Commons\obj\Debug\nIt.nCommons.njsprojResolveAssemblyReference.cache

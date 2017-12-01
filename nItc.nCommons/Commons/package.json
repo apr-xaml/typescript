@@ -1,0 +1,15 @@
+{
+  "name": "nIt.nCommons",
+  "version": "0.0.0",
+  "description": "nIt.nCommons",
+  "author": {
+    "name": "Z6APR"
+  },
+  "dependencies": {
+    "@types/node": "^8.0.31",
+    "node": "^8.3.0",
+    "type-assert": "^2.1.0",
+    "typescript": "^2.5.3"
+  },
+  "devDependencies": {}
+}

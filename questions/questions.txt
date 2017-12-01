@@ -1,0 +1,21 @@
+class Box<T>
+{
+    constructor(public readonly content: string)
+    {
+		
+    }
+}
+
+interface BoxWithBox<TRes>
+{
+    readonly innerBox: Box<TRes>;
+}
+
+
+
+const numbBox = new Box<number>(1);
+
+const strBox: BoxWithBox<string> = { innerBox: numbBox };
+
+
+alert(strBox.innerBox.content.trim());
